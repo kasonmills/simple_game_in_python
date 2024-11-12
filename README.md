@@ -1,4 +1,5 @@
 # simple_game_in_python
+
 This repository will contain all the efforts I make into creating a simple game with python libraries.
 
 {Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
@@ -30,4 +31,3 @@ Future Work
 * unique shapes
 * better scoring system
 * penalities
-* 
